@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(86, 180, 234, 0.9);
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+.sectionHeader {
+    background: linear-gradient(to right, #007BFF, #00C6FF);
+    color: rgb(223, 212, 212);
+    padding: 10px;
+}

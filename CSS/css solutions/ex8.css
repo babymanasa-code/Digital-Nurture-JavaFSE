@@ -1,0 +1,17 @@
+.eventCard {
+    border: 1px solid rgb(40, 11, 232);
+    padding: 10px;
+    margin: 10px;
+}
+
+input:focus {
+    outline: 2px solid rgb(191, 255, 0);
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.none {
+    display: none;
+}
